@@ -36,8 +36,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Joins, subqueries, CTEs, and window functions
 - Database connectivity using Python
 
-🔗 **Repository:** [Add Task 2 Repository Link Here]
-
+🔗 **Repository:** https://github.com/anishmakumaran-oss/SQL-Data-Extraction
 ---
 
 ###  Task 3 – Data Visualization & Dashboarding
@@ -45,7 +44,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Interactive Power BI dashboard
 - KPI analysis and business insights
 
-🔗 **Repository:** [Add Task 3 Repository Link Here]
+🔗 **Repository:** https://github.com/anishmakumaran-oss/Global-Ecommerce-Sales-Dashboard-
 
 ---
 
