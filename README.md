@@ -27,7 +27,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Exploratory Data Analysis (EDA)
 - Data visualization
 
-🔗 **Repository:** [Add Task 1 Repository Link Here]
+🔗 **Repository:** https://github.com/anishmakumaran-oss/apexplanet-data-analytics
 
 ---
 
@@ -55,7 +55,8 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Customer segmentation
 - Predictive modeling
 
-🔗 **Repository:** [Add Task 4 Repository Link Here]
+🔗 **Repository:** https://github.com/anishmakumaran-oss/Advanced-Analytics-Statistical-Modeling/tree/main
+
 
 ---
 
@@ -63,6 +64,4 @@ This repository contains the projects completed during my **Data Analytics Inter
 
 This internship enhanced my practical skills in **Python, SQL, Power BI, Data Visualization, Statistical Analysis, and Machine Learning**, while providing hands-on experience in solving real-world data analytics problems.
 
-## 🙏 Acknowledgement
 
-This project was completed as part of the **Data Analytics Internship** at **ApexPlanet Software Pvt. Ltd.**
