@@ -37,6 +37,7 @@ This repository contains the projects completed during my **Data Analytics Inter
 - Database connectivity using Python
 
 🔗 **Repository:** https://github.com/anishmakumaran-oss/SQL-Data-Extraction
+
 ---
 
 ###  Task 3 – Data Visualization & Dashboarding
